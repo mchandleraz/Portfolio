@@ -37,11 +37,14 @@ $colors: $color1, $color2, $color3, $color4, $color5, $color6, $color7, $color8;
 body {
 	background-color: #fff;
 	// background-image: url("../assets/tileable_wood_texture.jpg");
-	max-width: ($col-width * 5) + ($col-margin * 5);
 	position: relative;
 	section[role=main] {
 		margin: 0 auto;
 	}
+}
+#wrap {
+	margin: 0 auto;
+	max-width: ($col-width * 5) + ($col-margin * 5);
 }
 a {
 	text-decoration: none;
