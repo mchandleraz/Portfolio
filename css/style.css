@@ -1,0 +1,367 @@
+/* line 17, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+/* line 22, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1; }
+
+/* line 24, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 26, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 28, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+/* line 30, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none; }
+  /* line 103, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+  q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none; }
+
+/* line 32, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none; }
+
+/* line 116, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block; }
+
+/* line 34, ../scss/style.scss */
+* {
+  box-sizing: border-box; }
+
+/* line 37, ../scss/style.scss */
+body {
+  background-color: #fff;
+  max-width: 1310px;
+  position: relative; }
+  /* line 42, ../scss/style.scss */
+  body section[role=main] {
+    margin: 0 auto; }
+
+/* line 46, ../scss/style.scss */
+a {
+  text-decoration: none;
+  color: inherit; }
+
+/* line 50, ../scss/style.scss */
+p {
+  font-size: 20.94339px; }
+
+/* line 53, ../scss/style.scss */
+h1, h2, h3, h4, h5, h6 {
+  display: block;
+  width: auto; }
+
+/* line 57, ../scss/style.scss */
+h1 {
+  font-size: 54.82821px; }
+
+/* line 60, ../scss/style.scss */
+h2 {
+  font-size: 33.88641px;
+  font-family: "jaf-bernino-sans-comp", "Helvetica Neue", Helvetica, Arial, sans;
+  font-style: none;
+  font-weight: bold;
+  letter-spacing: .0295em; }
+  /* line 64, ../scss/style.scss */
+  h2 {
+    color: #f6f6f6;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out false;
+    -o-transition: all 1s ease-out false;
+    transition: all 1s ease-out; }
+  /* line 70, ../scss/style.scss */
+  .info-post h2:hover {
+    color: #b8bdc4;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .info-post h2:active {
+    color: #abb1b8; }
+  /* line 70, ../scss/style.scss */
+  .code h2:hover {
+    color: #a0bbcc;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .code h2:active {
+    color: #90afc3; }
+  /* line 70, ../scss/style.scss */
+  .web h2:hover {
+    color: #a1eccf;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .web h2:active {
+    color: #8ce7c4; }
+  /* line 70, ../scss/style.scss */
+  .print h2:hover {
+    color: #baef97;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .print h2:active {
+    color: #abeb81; }
+  /* line 70, ../scss/style.scss */
+  .illustration h2:hover {
+    color: #fbc393;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .illustration h2:active {
+    color: #fbb57a; }
+  /* line 70, ../scss/style.scss */
+  .info h2:hover {
+    color: #f6cdc1;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .info h2:active {
+    color: #f2bcab; }
+  /* line 70, ../scss/style.scss */
+  .alert h2:hover {
+    color: #f3a499;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .alert h2:active {
+    color: #f08f82; }
+  /* line 70, ../scss/style.scss */
+  .soft h2:hover {
+    color: #f7d3db;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in false;
+    -o-transition: all 0.5s ease-in false;
+    transition: all 0.5s ease-in; }
+  /* line 75, ../scss/style.scss */
+  .soft h2:active {
+    color: #f3bdca; }
+
+/* line 82, ../scss/style.scss */
+h3 {
+  font-size: 20.94339px;
+  font-family: "pt-sans", "Helvetica Neue", Helvetica, Arial, sans;
+  font-style: none;
+  font-weight: bold; }
+  /* line 86, ../scss/style.scss */
+  .block.info-post h3 {
+    color: #454b52; }
+  /* line 86, ../scss/style.scss */
+  .block.code h3 {
+    color: #2f4857; }
+  /* line 86, ../scss/style.scss */
+  .block.web h3 {
+    color: #1d8b61; }
+  /* line 86, ../scss/style.scss */
+  .block.print h3 {
+    color: #448b16; }
+  /* line 86, ../scss/style.scss */
+  .block.illustration h3 {
+    color: #a34e06; }
+  /* line 86, ../scss/style.scss */
+  .block.info h3 {
+    color: #b63f1c; }
+  /* line 86, ../scss/style.scss */
+  .block.alert h3 {
+    color: #952112; }
+  /* line 86, ../scss/style.scss */
+  .block.soft h3 {
+    color: #c22247; }
+
+/* line 91, ../scss/style.scss */
+h4 {
+  font-size: 12.944px; }
+
+/* line 94, ../scss/style.scss */
+h5 {
+  font-size: 8px; }
+
+/* line 97, ../scss/style.scss */
+h6 {
+  font-size: 8px; }
+
+/* line 101, ../scss/style.scss */
+article.block {
+  position: relative;
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+  -moz-transition: -webkit-transform 0.3s ease-out false;
+  -o-transition: -webkit-transform 0.3s ease-out false;
+  transition: -webkit-transform 0.3s ease-out; }
+  /* line 106, ../scss/style.scss */
+  article.block.blogpost div.content {
+    background-color: #ededed;
+    color: #adadad;
+    padding: 15px; }
+    /* line 110, ../scss/style.scss */
+    article.block.blogpost div.content hgroup {
+      position: relative;
+      padding: 0; }
+      /* line 113, ../scss/style.scss */
+      article.block.blogpost div.content hgroup h1 {
+        color: #6e6e6e; }
+      /* line 116, ../scss/style.scss */
+      article.block.blogpost div.content hgroup h2 {
+        color: #adadad; }
+  /* line 127, ../scss/style.scss */
+  article.block.info-post hgroup {
+    background-color: #818a95;
+    border-bottom: 5px solid #454b52; }
+  /* line 127, ../scss/style.scss */
+  article.block.code hgroup {
+    background-color: #5e8ca8;
+    border-bottom: 5px solid #2f4857; }
+  /* line 127, ../scss/style.scss */
+  article.block.web hgroup {
+    background-color: #4ddaa4;
+    border-bottom: 5px solid #1d8b61; }
+  /* line 127, ../scss/style.scss */
+  article.block.print hgroup {
+    background-color: #7fe13f;
+    border-bottom: 5px solid #448b16; }
+  /* line 127, ../scss/style.scss */
+  article.block.illustration hgroup {
+    background-color: #f88c30;
+    border-bottom: 5px solid #a34e06; }
+  /* line 127, ../scss/style.scss */
+  article.block.info hgroup {
+    background-color: #e88669;
+    border-bottom: 5px solid #b63f1c; }
+  /* line 127, ../scss/style.scss */
+  article.block.alert hgroup {
+    background-color: #e8523e;
+    border-bottom: 5px solid #952112; }
+  /* line 127, ../scss/style.scss */
+  article.block.soft hgroup {
+    background-color: #e87c95;
+    border-bottom: 5px solid #c22247; }
+  /* line 135, ../scss/style.scss */
+  article.block div.content {
+    background-color: #fefefe;
+    border: 1px solid #ededed;
+    width: inherit;
+    height: inherit;
+    overflow: hidden;
+    position: relative; }
+    /* line 142, ../scss/style.scss */
+    article.block div.content img {
+      position: absolute;
+      z-index: 1;
+      -webkit-transition: top 0.3s ease-in;
+      -moz-transition: top 0.3s ease-in false;
+      -o-transition: top 0.3s ease-in false;
+      transition: top 0.3s ease-in;
+      transition-delay: .3s; }
+    /* line 148, ../scss/style.scss */
+    article.block div.content hgroup {
+      bottom: 0;
+      margin-bottom: -77px;
+      position: absolute;
+      width: 100%;
+      z-index: 2;
+      padding: 0.8em 0.8em 0.6em 0.8em;
+      -webkit-transition: margin-bottom 0.4s ease-in;
+      -moz-transition: margin-bottom 0.4s ease-in false;
+      -o-transition: margin-bottom 0.4s ease-in false;
+      transition: margin-bottom 0.4s ease-in;
+      transition-delay: .1s; }
+    /* line 158, ../scss/style.scss */
+    article.block div.content p {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      height: 5em; }
+  /* line 167, ../scss/style.scss */
+  article.block div.content:hover img {
+    top: -25%;
+    -webkit-transition: top 0.3s ease-out;
+    -moz-transition: top 0.3s ease-out false;
+    -o-transition: top 0.3s ease-out false;
+    transition: top 0.3s ease-out;
+    transition-delay: .2s; }
+  /* line 172, ../scss/style.scss */
+  article.block div.content:hover hgroup {
+    margin-bottom: 0;
+    -webkit-transition: margin-bottom 0.3s ease-out;
+    -moz-transition: margin-bottom 0.3s ease-out false;
+    -o-transition: margin-bottom 0.3s ease-out false;
+    transition: margin-bottom 0.3s ease-out; }
+  /* line 177, ../scss/style.scss */
+  article.block div.shadow {
+    background-color: rgba(0, 0, 0, 0);
+    bottom: 0px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    height: 15px;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    display: block;
+    box-shadow: 0 3px 8px -2px rgba(85, 85, 85, 0.6);
+    content: ".";
+    font-size: 0;
+    position: absolute;
+    z-index: -2; }
+/* line 198, ../scss/style.scss */
+article.small, article.feature, article.tall, article.wide {
+  margin: 0 12px 12px 0; }
+/* line 201, ../scss/style.scss */
+article.small {
+  width: 250px;
+  height: 250px; }
+/* line 205, ../scss/style.scss */
+article.feature {
+  width: 512px;
+  height: 512px; }
+/* line 209, ../scss/style.scss */
+article.tall {
+  width: 250px;
+  height: 512px; }
+/* line 213, ../scss/style.scss */
+article.wide {
+  width: 512px;
+  height: 250px; }

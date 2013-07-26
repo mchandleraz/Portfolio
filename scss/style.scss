@@ -1,0 +1,217 @@
+@import 'bourbon/bourbon';
+@import 'compass/css3';
+@import 'compass/reset';
+
+// Base measurements
+$col-width: 250px;
+$col-margin: 12px;
+$block-border: 2px;
+$block-padding: 15px;
+$base-font: 8px;
+
+//base colors
+$blog-post: #ededed;
+
+// $variable-name: main color, class, text color;
+// Pulling out variable with nth(): (nth(nth($colors, $i), #))
+$color1: #818a95 ".info-post"; // cool steel
+$color2: #5e8ca8 ".code"; // indigo
+$color3: #4ddaa4 ".web"; // teal
+$color4: #7fe13f ".print"; //green
+$color5: #f88c30 ".illustration"; //orange
+$color6: #e88669 ".info"; //peach
+$color7: #e8523e ".alert"; //red
+$color8: #e87c95 ".soft"; //pink
+
+$colors: $color1, $color2, $color3, $color4, $color5, $color6, $color7, $color8;
+
+@mixin typekit-font ($font-family, $font-weight: regular, $font-style: none ) {
+	font-family: $font-family, 'Helvetica Neue', Helvetica, Arial, sans;
+	font-style: $font-style;
+	font-weight: $font-weight;
+}
+
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: #fff;
+	// background-image: url("../assets/tileable_wood_texture.jpg");
+	max-width: ($col-width * 5) + ($col-margin * 5);
+	position: relative;
+	section[role=main] {
+		margin: 0 auto;
+	}
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+p {
+	font-size: golden-ratio($base-font, 2);
+}
+h1, h2, h3, h4, h5, h6 {
+	display: block;
+	width: auto;
+}
+h1 {
+	font-size: golden-ratio($base-font, 4);
+}
+h2 {
+	font-size: golden-ratio($base-font, 3);
+	@include typekit-font ("jaf-bernino-sans-comp", bold);
+	letter-spacing: .0295em;
+		& {
+			color: #f6f6f6;
+			// text-shadow: (0 0px 0px rgba(#fff, 0));
+			@include transition(all 1s ease-out);
+		}
+		@for $i from 1 through length($colors) {
+			#{(nth(nth($colors, $i), 2))} &:hover {
+				color: rgba(lighten((nth(nth($colors, $i), 1)),20), 1);
+				// text-shadow: (0 2px 3px rgba(darken((nth(nth($colors, $i), 1)),25), 1));
+				@include transition(all .5s ease-in);
+			}
+			#{(nth(nth($colors, $i), 2))} &:active {
+				color: rgba(lighten((nth(nth($colors, $i), 1)),15), 1);
+				// text-shadow: (0 2px 3px rgba(darken((nth(nth($colors, $i), 1)),15), 1));
+				// @include transition(none);
+			}
+		}
+}
+h3 {
+	font-size: golden-ratio($base-font, 2);
+	@include typekit-font ("pt-sans", bold);
+	@for $i from 1 through length($colors) {
+		.block#{(nth(nth($colors, $i), 2))} & {
+			color: rgba(darken((nth(nth($colors, $i), 1)),25), 1);
+		}
+	}
+}
+h4 {
+	font-size: golden-ratio($base-font, 1);
+}
+h5 {
+	font-size: golden-ratio($base-font, 0);
+}
+h6 {
+	font-size: golden-ratio($base-font, 0);
+}
+article {
+	&.block{
+		position: relative;
+		@include transition(-webkit-transform .3s ease-out);
+		// DEFINE TILE BLOG POST STYLES
+		&.blogpost {
+			div.content {
+				background-color: $blog-post;
+				color: darken($blog-post, 25);
+				padding: $block-padding;
+				hgroup {
+					position: relative;
+					padding: 0;
+					h1 {
+						color: darken($blog-post, 50);
+					}
+					h2 {
+						color: darken($blog-post, 25);
+					}
+
+				}		
+				
+			}
+		}
+
+		// <hgroup> color definitions
+		@for $i from 1 through length($colors) {
+			&#{(nth(nth($colors, $i), 2))} hgroup {
+				background-color: rgba((nth(nth($colors, $i), 1)), 1);
+				border-bottom: 5px solid rgba(darken((nth(nth($colors, $i), 1)),25), 1);
+			}
+		}
+
+		// basic home block styles
+		& div {
+			&.content {
+				background-color: #fefefe;
+				border: 1px solid #ededed;
+				width: inherit;
+				height: inherit;
+				overflow: hidden;
+				position: relative;
+				img {
+					position: absolute;
+					z-index: 1;
+					@include transition(top .3s ease-in);
+					transition-delay: .3s;
+				}
+				hgroup {
+					bottom: 0;
+					margin-bottom: -77px;
+					position: absolute;
+					width: 100%;
+					z-index: 2;
+					padding: .8em .8em .6em .8em ;
+					@include transition(margin-bottom .4s ease-in);
+					transition-delay: .1s;
+				}
+				p {
+					overflow: hidden;
+					text-overflow: ellipsis;
+					height: 5em;
+				}		
+			}
+
+			// <hgroup> annimations hover
+			&.content:hover {
+				img {
+					top: -25%;
+					@include transition(top .3s ease-out);
+					transition-delay: .2s;
+				}
+				hgroup {
+					margin-bottom: 0;
+						@include transition(margin-bottom .3s ease-out);
+					}
+				}
+			&.shadow {
+				background-color: rgba(0,0,0,0);
+				bottom: 0px;
+				@include border-radius(50%);
+				height: 15px;
+				left: 5%;
+				right: 5%;
+				width: 90%;
+				
+				display: block;
+				
+				box-shadow: (0 3px 8px -2px rgba(#555, .6));
+				content: ".";
+				font-size: 0;
+				position: absolute;
+				z-index: -2;
+			}
+		}
+	}
+
+	
+	&.small, &.feature, &.tall, &.wide {
+		margin:0 $col-margin $col-margin 0;
+	}
+	&.small {
+	 	width: $col-width;
+	 	height: $col-width;
+	}
+	&.feature {
+	 	width: $col-width * 2  + $col-margin/* + ($block-border * 2) */;
+	 	height: $col-width * 2  + $col-margin/* + ($block-border * 2) */;
+	}
+	&.tall {
+	 	width: $col-width;
+	 	height: $col-width * 2  + $col-margin/* + ($block-border * 2) */;
+	}
+	&.wide {
+	 	width: $col-width * 2  + $col-margin/* + ($block-border * 2) */;
+	 	height: $col-width;
+	}
+}

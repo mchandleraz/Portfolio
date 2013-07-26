@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"mat",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"blog",
+				"blog-post"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"block",
+				"block-padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"block-b",
+				"block-border"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"col-",
+				"col-margin"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tea",
+				"teal-dark"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/dominick washburn/Sites/Portfolio/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 4974,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dominick washburn/Sites/Portfolio/index.html",
+			"settings":
+			{
+				"buffer_size": 7692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 11657,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 63.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dominick washburn/Sites/Portfolio/scss/style.scss",
+		"/Users/dominick washburn/Sites/Portfolio/isotope-site/demos/elements-complete.html",
+		"/Users/dominick washburn/Desktop/Test/css/screen.css",
+		"/Users/dominick washburn/Desktop/Test/index.html",
+		"/Users/dominick washburn/Desktop/Test/custom-mixins/leading.scss",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 23% Off Sitewide + Features on Dark Spot Treatments and Sunscreen 7-1-13/CLOSING/code/23-off-sitewide-features-CLOSE.html",
+		"/Users/dominick washburn/Desktop/Test/custom-mixins/media-quereis.scss",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 23% Off Sitewide + Features on Dark Spot Treatments and Sunscreen 7-1-13/OPENING/code/23-off-sitewide-features-OPEN.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 23% Off Sitewide + Features on Dark Spot Treatments and Sunscreen 7-1-13/OPENING/code/SK 23% Off Sitewide + Features_Opening_V2.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - Buy More Save More Rebate Campaign II 6-25-13/REMINDER/code/sk-buy-more-save-more-II-062613-REMINDER.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - Buy More Save More Rebate Campaign II 6-25-13/CLOSING/code/sk-buy-more-save-more-II-062613-CLOSE.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - Buy More Save More Rebate Campaign II 6-25-13/CLOSING/code/sk-buy-more-save-more-II-062613.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - Buy More Save More Rebate Campaign II 6-25-13/REMINDER/code/sk-buy-more-save-more-II-062613.html",
+		"/Users/dominick washburn/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - Buy More Save More Rebate Campaign II 6-25-13/OPENING/code/sk-buy-more-save-more-II-062613.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - Buy More Save More Rebate Campaign II 6-25-13/OPENING/code/sk-buy-more-save-more-II-062613 copy.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - Buy More Save More Rebate Campaign II 6-25-13/OPENING/code/sk-buy-more-save-more-II-062613.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - We Miss You Campaign/code/sk-we-miss-you-campaign-062413.html",
+		"/Users/dominick washburn/Desktop/Test/sass/screen.scss",
+		"/Users/dominick washburn/Downloads/gridpak/gridpak.scss",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - 25% off First Day of Summer Sale/EXTENDED/code/SK-25-off-first-day-of-summer-sale-061813-EXTENDED.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - 25% off First Day of Summer Sale/CLOSING/code/SK-25-off-first-day-of-summer-sale-061813-CLOSE.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Template/skrx-email-template.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - 25% off First Day of Summer Sale/REMINDER/code/SK-25-off-first-day-of-summer-sale-061813-REMINDER.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - 25% off First Day of Summer Sale/code/SK-25-off-first-day-of-summer-sale-061813-OPEN.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - 25% off First Day of Summer Sale/code/25%-off-First Day of Summer Sale_V6.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - 3 Days Left Rebate Reminder Campaign 6-18-13/code/3-days-left-rebate-reminder-campaign-061813.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK - 3 Days Left Rebate Reminder Campaign 6-18-13/code/3 Days Left Rebate Reminder Campaign 6-18-13_V4.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK Secret One Day Sale/code/SK Secret One Day Sale_V5.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK Secret One Day Sale/code/SK-secret-one-day-sale-open.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 22% Off Storewide and What's New Campaign/code/SK 22- and Whats New Email 5-3-13_v3_CLOSING.htm",
+		"/Users/dominick washburn/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/CLOSING/code/skrx-M2-targeted-email-close.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK SkinCeuticals 22%off Branded Email 6-13-13/psd/code/skin-ceuticals-branded-email-open.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK SkinCeuticals 22%off Branded Email 6-13-13/psd/code/skin-ceuticals-branded-email-close.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK SkinCeuticals 22%off Branded Email 6-13-13/psd/code/SKRX_SkinCeuticals_BrandedEmail_OpenR2.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/CLOSING/code/skrx-clarisonic-targeted-email-close.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK $35 E-Giftcard + Sightings Campaign 6-11-13/CLOSING/code/35-Giftcard-Sightings-Campaign-close.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK $35 E-Giftcard + Sightings Campaign 6-11-13/CLOSING/code/35_%_Giftcard_Sightings_Closing_v4.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK $35 E-Giftcard + Sightings Campaign 6-11-13/OPENING/code/35_-_Giftcard_Sightings_Campaign_v7.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/REMINDER/Code/skrx-clarisonic-targeted-email-reminder.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/REMINDER/Code/skrx-forte-targeted-email-reminder.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/REMINDER/Code/skrx-replenix-targeted-email-reminder.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/REMINDER/Code/skrx-Obagi-targeted-email-reminder.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK $35 E-Giftcard + Sightings Campaign 6-11-13/code/35-Giftcard-Sightings-Campaign.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK $35 E-Giftcard + Sightings Campaign 6-11-13/code/35_-_Giftcard_Sightings_Campaign_v7.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/REMINDER/skrx-targeted-brand-REMINDER_V1-flattened.psd",
+		"/Users/dominick washburn/Desktop/test.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-replenix-targeted-email-open.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-m2-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-obagi-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-avene-targeted-email-open.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-skin-ceuticals-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-replenix-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-peter-thomas-roth-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-skin-medica-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-nia24-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-neocutis-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-forte-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-avene-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-eminence-targeted-email.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK FATHERSDAY_CLOSING_V3.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK TARGETED - 6-7-13/code/skrx-targeted-brand-v1.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK-fathers-day-R2-060513.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK-fathers-day-close-060513.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK-fathers-day-R3-060513.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK FATHERSDAY_REMINDER3_FINAL.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SkinMedica-Dedicated-Email-v5.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK FATHERSDAY_v4.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK FATHERSDAY_v4-r2.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK-fathers-day-R1-060513.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Father's Day Email/code/SK-fathers-day-060513.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 22% Off Storewide and What's New Campaign/code/SK-22-Off-and-whats-new-060313-CLOSE.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-3-Greenway.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-3-Bell.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-3-Elliot.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 38% off shop more save more camp/code/SK-38-off-shop-more-save-more-053013-CLOSE.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-1-Elliot.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-1-Greenway.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-2-Greenway.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-2-Elliot.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-2-Bell.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Final/MFB-Round-12-Layout-1-Bell.html",
+		"/Users/dominick washburn/Downloads/mfb-asu-eblast-fall-welcome-v2/mfb-asu-eblast-fall-welcome.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Layout 2/MFB-Round-12-Layout-3.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Layout 2/MFB-Round-12-Layout-2.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Layout 1/MFB-Round-12-Layout-1.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK Elta MD + 22% off Storewide Campaign - CLOSING/Code/skrx-elta-md-22-051713-closing.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Memorial Day 25% off/Code/Memorial Day 25% off v5.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 22& off + GWP/code/SK-22-off-GWP-052813-close.html",
+		"/Users/dominick washburn/Desktop/chart-revised.html",
+		"/Users/dominick washburn/Desktop/MFB Round12/Layout 1/azbasketball.html",
+		"/Users/dominick washburn/Desktop/chart.html",
+		"/Users/dominick washburn/Sites/cavalier-resort/wp-content/themes/cavalierresort/footer.php",
+		"/Users/dominick washburn/Sites/cavalier-resort/wp-config.php",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 22& off + GWP/code/SK-22-off-GWP-052813-open.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Memorial Day 25% off/Code/SK-Memorial-Day-25-off-Storewide-Campaign-52313-opening.html",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK 22& off + GWP/code/SK 22% off + GWP Top Ten Travel Products Email 5-28-13_V1.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/SK Elta MD + 22% off Storewide Campaign - CLOSING/Code/SK Elta MD + 22% off Storewide Campaign_v4.htm",
+		"/Volumes/Creative_PHX/Clients (Current)/Inteladerm/SkinCareRx/Email/Mother's Day Campaign 5-3-13/Code/skrx-mothers-day-050313-opening.html",
+		"/Users/dominick washburn/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".element",
+			"element",
+			"center",
+			".element",
+			"<script>\n\n	  $.Isotope.prototype._getCenteredMasonryColumns = function() {\n	    this.width = this.element.width();\n	    \n	    var parentWidth = this.element.parent().width();\n	    \n	                  // i.e. options.masonry && options.masonry.columnWidth\n	    var colW = this.options.masonry && this.options.masonry.columnWidth ||\n	                  // or use the size of the first item\n	                  this.$filteredAtoms.outerWidth(true) ||\n	                  // if there's no items, use size of container\n	                  parentWidth;\n	    \n	    var cols = Math.floor( parentWidth / colW );\n	    cols = Math.max( cols, 1 );\n\n	    // i.e. this.masonry.cols = ....\n	    this.masonry.cols = cols;\n	    // i.e. this.masonry.columnWidth = ...\n	    this.masonry.columnWidth = colW;\n	  };\n	  \n	  $.Isotope.prototype._masonryReset = function() {\n	    // layout-specific props\n	    this.masonry = {};\n	    // FIXME shouldn't have to call this again\n	    this._getCenteredMasonryColumns();\n	    var i = this.masonry.cols;\n	    this.masonry.colYs = [];\n	    while (i--) {\n	      this.masonry.colYs.push( 0 );\n	    }\n	  };\n\n	  $.Isotope.prototype._masonryResizeChanged = function() {\n	    var prevColCount = this.masonry.cols;\n	    // get updated colCount\n	    this._getCenteredMasonryColumns();\n	    return ( this.masonry.cols !== prevColCount );\n	  };\n	  \n	  $.Isotope.prototype._masonryGetContainerSize = function() {\n	    var unusedCols = 0,\n	        i = this.masonry.cols;\n	    // count unused columns\n	    while ( --i ) {\n	      if ( this.masonry.colYs[i] !== 0 ) {\n	        break;\n	      }\n	      unusedCols++;\n	    }\n	    \n	    return {\n	          height : Math.max.apply( Math, this.masonry.colYs ),\n	          // fit container to columns that have been used;\n	          width : (this.masonry.cols - unusedCols) * this.masonry.columnWidth\n	        };\n	  };\n\n\n	  $(function(){\n	    \n	    var $container = $('#container');\n	    \n	    \n	      // add randomish size classes\n	      $container.find('.element').each(function(){\n	        var $this = $(this),\n	            number = parseInt( $this.find('.number').text(), 10 );\n	        if ( number % 7 % 2 === 1 ) {\n	          $this.addClass('width2');\n	        }\n	        if ( number % 3 === 0 ) {\n	          $this.addClass('height2');\n	        }\n	      });\n	    \n	    $container.isotope({\n	      itemSelector : '.element',\n	      masonry : {\n	        columnWidth : 120\n	      },\n	      getSortData : {\n	        symbol : function( $elem ) {\n	          return $elem.attr('data-symbol');\n	        },\n	        category : function( $elem ) {\n	          return $elem.attr('data-category');\n	        },\n	        number : function( $elem ) {\n	          return parseInt( $elem.find('.number').text(), 10 );\n	        },\n	        weight : function( $elem ) {\n	          return parseFloat( $elem.find('.weight').text().replace( /[\\(\\)]/g, '') );\n	        },\n	        name : function ( $elem ) {\n	          return $elem.find('.name').text();\n	        }\n	      }\n	    });\n	      \n	    \n	      var $optionSets = $('#options .option-set'),\n	          $optionLinks = $optionSets.find('a');\n\n	      $optionLinks.click(function(){\n	        var $this = $(this);\n	        // don't proceed if already selected\n	        if ( $this.hasClass('selected') ) {\n	          return false;\n	        }\n	        var $optionSet = $this.parents('.option-set');\n	        $optionSet.find('.selected').removeClass('selected');\n	        $this.addClass('selected');\n	  \n	        // make option object dynamically, i.e. { filter: '.my-filter-class' }\n	        var options = {},\n	            key = $optionSet.attr('data-option-key'),\n	            value = $this.attr('data-option-value');\n	        // parse 'false' as false boolean\n	        value = value === 'false' ? false : value;\n	        options[ key ] = value;\n	        if ( key === 'layoutMode' && typeof changeLayoutMode === 'function' ) {\n	          // changes in layout modes need extra logic\n	          changeLayoutMode( $this, options )\n	        } else {\n	          // otherwise, apply new options\n	          $container.isotope( options );\n	        }\n	        \n	        return false;\n	      });\n\n\n	    \n	      $('#insert a').click(function(){\n	        var $newEls = $( fakeElement.getGroup() );\n	        $container.isotope( 'insert', $newEls );\n\n	        return false;\n	      });\n\n	      $('#append a').click(function(){\n	        var $newEls = $( fakeElement.getGroup() );\n	        $container.append( $newEls ).isotope( 'appended', $newEls );\n\n	        return false;\n	      });\n\n\n	    \n	      // change size of clicked element\n	      $container.delegate( '.element', 'click', function(){\n	        $(this).toggleClass('large');\n	        $container.isotope('reLayout');\n	      });\n\n	      // toggle variable sizes of all elements\n	      $('#toggle-sizes').find('a').click(function(){\n	        $container\n	          .toggleClass('variable-sizes')\n	          .isotope('reLayout');\n	        return false;\n	      });\n\n\n	    var $sortBy = $('#sort-by');\n	    $('#shuffle a').click(function(){\n	      $container.isotope('shuffle');\n	      $sortBy.find('.selected').removeClass('selected');\n	      $sortBy.find('[data-option-value=\"random\"]').addClass('selected');\n	      return false;\n	    });\n	    \n	  });\n	</script>",
+			".element",
+			"element",
+			".element",
+			".jpg",
+			"sunrise",
+			"transform",
+			"trasition",
+			"through 8",
+			" !default",
+			"<h2>Title of post</h2>\n									\n									<a href=\"#\" role=\"contentinfo\">Link to content</a>",
+			"</h2>",
+			"element",
+			"block-",
+			"$color1",
+			"2",
+			"1",
+			"height: $col-width * 2 /* ",
+			"header",
+			"+ $col-margin + ($block-border * 2)",
+			"4",
+			"in * 2",
+			"* 2",
+			"block",
+			"css-",
+			"transform",
+			"transition",
+			" + $col-margin * 2",
+			"&",
+			"15px",
+			"$col-margin",
+			"margin",
+			"col-margin",
+			"$col-margin",
+			"padding: $col-margin;",
+			"20px",
+			"5",
+			"<articl",
+			"$color7: #e8523e; //red",
+			", $color4",
+			"u",
+			"background-color: rgba(nth($colors, $i), 0.6);",
+			"--&#{$",
+			"[",
+			"header",
+			"3",
+			"main",
+			"open",
+			"close",
+			"slices13-vivite-last-chance-for-25-instantly-071613",
+			"open",
+			".",
+			"...",
+			"p>",
+			"p",
+			"top",
+			"background",
+			"bottom",
+			" <img ",
+			"img",
+			"rc=\"",
+			"src=\"",
+			"</td>",
+			"</a>",
+			"<img",
+			"<td>",
+			"src=\"",
+			"<img",
+			"src=\"",
+			"</td>",
+			"</a>",
+			"<img",
+			"<a",
+			"<td",
+			"src=\"",
+			"</td>",
+			"</a>",
+			"<img",
+			"<td>",
+			"<img",
+			"large",
+			"src=\"",
+			"<img s",
+			"<img",
+			"</td>",
+			"</a>",
+			"<img ",
+			"<img",
+			"<td",
+			"close",
+			"r1",
+			"open",
+			"spacer.gif\"",
+			"src=\"",
+			"<img ",
+			"</a>",
+			"<img",
+			"<td>",
+			"src=\"",
+			"/td>",
+			"</a>",
+			"<img",
+			"<a ",
+			"<td",
+			"img",
+			"src=\"",
+			"img",
+			"<img",
+			"</td>",
+			"</a>",
+			"img",
+			"<img",
+			"<td>",
+			"<img",
+			"open",
+			"/a>",
+			"<a ",
+			"</td>",
+			"<img",
+			"img",
+			"src=\"",
+			"src=\"spacer.gif\"",
+			".jpg",
+			"251"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/dominick washburn/Sites/Portfolio/scss/style.scss",
+					"settings":
+					{
+						"buffer_size": 4974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2542,
+								2542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3438.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/dominick washburn/Sites/Portfolio/index.html",
+					"settings":
+					{
+						"buffer_size": 7692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7510,
+								7510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 11657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10713,
+								10713
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11777.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.488548978846,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
